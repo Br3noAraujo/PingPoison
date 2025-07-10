@@ -1,0 +1,3 @@
+scapy
+colorama
+geoip2 ; extra == 'geoip'  # Opcional, só se usar --geoip-db 
